@@ -2,7 +2,7 @@
 
 using step
 
-1. download zip
+1. download zip and unzip
 2. wakeup terminal and change current directory to docker-project directory
 3. put this command
 
