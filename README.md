@@ -2,8 +2,8 @@
 
 using step
 
-1. clone download
-2. change current directory to docker-project directory
+1. download zip
+2. wakeup terminal and change current directory to docker-project directory
 3. put this command
 
 ```
